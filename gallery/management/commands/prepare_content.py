@@ -20,7 +20,6 @@ GALLERY_FILE = settings.MEDIA_ROOT + 'photos.csv'
 
 
 class Command(BaseCommand):
-    # args = 'json, xml --mctrade'
     help = u'Заполнение базы данными'
 
     def get_random_user(self):
