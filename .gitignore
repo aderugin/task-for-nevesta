@@ -1,0 +1,8 @@
+.DS_Store
+.venv
+public/
+*.pyc
+*.db
+*.rdb
+*.log
+__pycache__

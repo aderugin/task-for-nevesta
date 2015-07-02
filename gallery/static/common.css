@@ -1,0 +1,82 @@
+/*
+    Отступы
+*/
+.ind-0 {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.ind-10 {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.ind-20 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.ind-30 {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.ind-40 {
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+.ind-60 {
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+.ind-80 {
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
+.ind-btm-0 {
+  margin-bottom: 0px;
+}
+.ind-btm-10 {
+  margin-bottom: 10px;
+}
+.ind-btm-20 {
+  margin-bottom: 20px;
+}
+.ind-btm-30 {
+  margin-bottom: 30px;
+}
+.ind-btm-40 {
+  margin-bottom: 40px;
+}
+.ind-btm-60 {
+  margin-bottom: 60px;
+}
+.ind-btm-80 {
+  margin-bottom: 80px;
+}
+.ind-tp-0 {
+  margin-top: 0px;
+}
+.ind-tp-10 {
+  margin-top: 10px;
+}
+.ind-tp-20 {
+  margin-top: 20px;
+}
+.ind-tp-30 {
+  margin-top: 30px;
+}
+.ind-tp-40 {
+  margin-top: 40px;
+}
+.ind-tp-60 {
+  margin-top: 60px;
+}
+.ind-tp-80 {
+  margin-top: 80px;
+}
+/*
+    Общие эелементы разметки
+*/
+.inline {
+  display: inline-block;
+}
+.jumbotron-border {
+  border-bottom: 1px solid #eaeaea;
+}

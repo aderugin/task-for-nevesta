@@ -1,0 +1,18 @@
+# Base apps
+MySQL-python
+Django==1.8.2
+Pillow
+
+# Utils
+# python-slugify
+# pymorphy2
+
+# Additional
+#easy_thumbnails
+requests
+# lxml
+# redis
+# celery[redis]==3.1.18
+# django_compressor==1.5
+# git+git://github.com/chronossc/django-breadcrumbs.git
+# git+git://github.com/aderugin/django-settings.git
