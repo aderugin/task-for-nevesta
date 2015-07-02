@@ -9,8 +9,8 @@
 
 3. Нужно создать папки для public/static и public/media
 
-users.csv — CSV файл с разделителем ";"; заголовок "username;name"; пример строки brownfish135;Allen Hughes
-tags.txt — TXT файл со списком тегов, разделенных пробелом
-photos.csv — CSV файл предоставлен для выполнения задания
+* **users.csv** — CSV файл с разделителем ";"; заголовок "username;name"; пример строки brownfish135;Allen Hughes
+* **tags.txt** — TXT файл со списком тегов, разделенных пробелом
+* **photos.csv** — CSV файл предоставлен для выполнения задания
 
 `pip install -r requirements.txt`
